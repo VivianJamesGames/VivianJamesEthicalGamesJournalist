@@ -1,0 +1,6 @@
+c:\users\gypsie\documents\visual studio 2013\Projects\VivianJamesEthicalGamesJournalist\VivianJamesEthicalGamesJournalist\bin\Debug\VivianJamesEthicalGamesJournalist.exe.config
+c:\users\gypsie\documents\visual studio 2013\Projects\VivianJamesEthicalGamesJournalist\VivianJamesEthicalGamesJournalist\bin\Debug\VivianJamesEthicalGamesJournalist.exe
+c:\users\gypsie\documents\visual studio 2013\Projects\VivianJamesEthicalGamesJournalist\VivianJamesEthicalGamesJournalist\bin\Debug\VivianJamesEthicalGamesJournalist.pdb
+c:\users\gypsie\documents\visual studio 2013\Projects\VivianJamesEthicalGamesJournalist\VivianJamesEthicalGamesJournalist\obj\Debug\VivianJamesEthicalGamesJournalist.csprojResolveAssemblyReference.cache
+c:\users\gypsie\documents\visual studio 2013\Projects\VivianJamesEthicalGamesJournalist\VivianJamesEthicalGamesJournalist\obj\Debug\VivianJamesEthicalGamesJournalist.exe
+c:\users\gypsie\documents\visual studio 2013\Projects\VivianJamesEthicalGamesJournalist\VivianJamesEthicalGamesJournalist\obj\Debug\VivianJamesEthicalGamesJournalist.pdb
